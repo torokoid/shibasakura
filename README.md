@@ -137,9 +137,8 @@ screen and (orientation: landscape) {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
-<a href="https://torokoid.github.io/koguchi">小口さん集まりへのリンク</a>
 
-</div>
+
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
