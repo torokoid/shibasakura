@@ -149,4 +149,4 @@ screen and (orientation: landscape) {
  <footer>
  <span class="white">Copyright 2019/04/28 torokoid</span>
  </footer>
- 
+ </body>
